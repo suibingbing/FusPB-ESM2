@@ -23,6 +23,8 @@ This file is the code that was tested on the independent test set.
 This file documents the environment required for the code to run.
 
 # Run
-1.Run the following command to install the environment：conda env create -f environment.yml.
+1.Run the following command to install the environment：conda env create -f environment.yml -n environmental name.
 
-2.Just open each jupyter notebook and run it. There are corresponding instructions in each Jupyter Notebook.
+2.conda activate environmental name.
+
+3.Just open each jupyter notebook and run it. There are corresponding instructions in each Jupyter Notebook.
