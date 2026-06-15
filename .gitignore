@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime outputs and checkpoints
+outputs/
+runs/
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Large model artifacts
+*.bin
+*.h5
+*.safetensors
