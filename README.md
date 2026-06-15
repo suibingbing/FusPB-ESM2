@@ -14,6 +14,10 @@ Code and datasets for **FusPB-ESM2: Fusion model of ProtBERT and ESM-2 for cell-
 
 FusPB-ESM2 predicts cell-penetrating peptides (CPPs) by extracting sequence representations from protein language models, including ProtBERT and ESM-2, then fusing the learned features for classification.
 
+![FusPB-ESM2 overview](assets/fuspb_esm2_overview.jpg)
+
+Figure source: Zhang et al., "FusPB-ESM2: Fusion model of ProtBERT and ESM-2 for cell-penetrating peptide prediction," Computational Biology and Chemistry, 2024.
+
 ## Repository Contents
 
 - `data/trainCPP.csv`: training dataset.
